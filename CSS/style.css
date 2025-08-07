@@ -1,0 +1,50 @@
+/*define style for website*/
+{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.centralize-vertical{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*define style for header*/
+header{
+    background-color: aqua;
+    height: 20vh;
+}
+
+/*define style for nav*/
+nav{
+    background-color: aquamarine;
+    height: 10vh;
+}
+nav button{
+    padding: 10px;
+    margin: 5px;
+}
+
+nav button a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+/*define style for main*/
+main{
+    background-color: aliceblue;
+    min-height: 60vh;
+}
+
+/*define  style for footer*/
+footer{
+    background-color: aqua;
+    height: 10vh;
+}
+
+footer p{
+    text-align: center;
+    font-weight: bold;
+}
